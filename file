@@ -1,3 +1,7 @@
 1st line
 2nd line
+<<<<<<< HEAD
 5th line`
+=======
+3rd line`
+>>>>>>> 0ceada7 (Done by Zack)
